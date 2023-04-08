@@ -1,0 +1,27 @@
+[
+    {
+       "name":"InlineGPT",
+       "url":"https://hexo.io/",
+       "desc":"Google Chrome extension to query ChatGPT's text completion API"
+    },
+    {
+        "name":"PostureCheck",
+        "url":"https://hexo.io/",
+        "desc":"Google Chrome extension to save my back"
+    },
+    {
+        "name":"Terminal Website",
+        "url":"http://fontawesome.io/",
+        "desc":"terminal emulator inspired personal website"
+    },
+    {
+       "name":"Mikashi",
+       "url":"http://fontawesome.io/",
+       "desc":"The iconic font and CSS toolkit"
+    },
+    {
+        "name":"AudioBlaster",
+        "url":"https://hexo.io/",
+        "desc":"Unity arcade game that syncs projectiles to music"
+    }
+]

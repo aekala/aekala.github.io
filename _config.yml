@@ -3,11 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Average Case
 subtitle: ''
-description: ''
+description: 'Hi, I''m Leo. <br>
+  Welcome to Average Case, a blog about tech, games, music, and digital art.'
 keywords:
-author: John Doe
+author: Leo Kodish 
 language: en
 timezone: ''
 
