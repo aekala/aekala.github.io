@@ -95,8 +95,8 @@ logo:
 
 art:
   enabled: true
-  width: 700
-  height: 450
+  width: 650
+  height: 400
   url: /images/denji_space.png
 
 # Customize the favicons.
