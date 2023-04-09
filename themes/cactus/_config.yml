@@ -28,7 +28,14 @@ social_links:
   github: http://github.com/aekala
   twitter: https://twitter.com/aekala_
   linkedin: https://www.linkedin.com/in/leo-kodish-b83aa712b
-  instagram: https://www.instagram.com/
+  instagram: https://www.instagram.com/tofu.mane/
+
+footer_links:
+  github: http://github.com/aekala
+  twitter: https://twitter.com/aekala_
+  linkedin: https://www.linkedin.com/in/leo-kodish-b83aa712b
+  instagram: https://www.instagram.com/tofu.mane/
+  rss: atom.xml
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud
@@ -110,13 +117,13 @@ art:
 #   - gravatar: whether to create a favicon from your Gravatar
 favicon:
   desktop:
-    url: /images/favicon.ico
+    url: /images/spinda.ico
     gravatar: false
   android:
-    url: /images/favicon-192x192.png
+    url: /images/spinda.png
     gravatar: false
   apple:
-    url: /images/apple-touch-icon.png
+    url: /images/spinda.png
     gravatar: false
 
 # The color scheme that should be used to highlight codeblocks.
@@ -137,7 +144,7 @@ page_width: 48
 ##############################################################################
 
 # Enable or disable the RSS feed.
-rss: false
+rss:
 
 # Turn your web pages into graph objects (see http://ogp.me).
 open_graph:

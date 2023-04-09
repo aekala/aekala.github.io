@@ -9,11 +9,17 @@
   <div class="footer-right">
     <nav>
       <ul>
-        <% for (var link in theme.social_links) { %>
-          <li><a class="footer-icon" target="_blank" rel="noopener me" href="<%- url_for(theme.social_links[link]) %>" aria-label="<%- link %>">
-            <i class="fab fa-<%= link %>"></i>
-          </a></li>
-          <% } %>
+        <% for (var link in theme.footer_links) { %>
+          <li>
+            <a class="footer-icon" target="_blank" rel="noopener me" href="<%- url_for(theme.footer_links[link]) %>" aria-label="<%- link %>">
+              <% if (link == 'rss') { %>
+                  <i class="fas fa-rss"></i>
+              <% } else { %>
+                  <i class="fab fa-<%= link %>"></i>
+              <% } %>
+          </a>
+          </li>
+        <% } %>
       </ul>
     </nav>
   </div>
