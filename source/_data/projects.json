@@ -1,27 +1,27 @@
 [
-    {
-       "name":"InlineGPT",
-       "url":"https://github.com/aekala/InlineGPT",
-       "desc":"Google Chrome extension to query ChatGPT's text completion API"
-    },
-    {
-        "name":"PostureCheck",
-        "url":"https://github.com/aekala/",
-        "desc":"Google Chrome extension to save my back"
-    },
-    {
-        "name":"Terminal Website",
-        "url":"https://github.com/aekala/Terminal_Website",
-        "desc":"terminal emulator inspired personal website"
-    },
-    {
-       "name":"Mikashi",
-       "url":"https://github.com/aekala/mikashi",
-       "desc":"Automated lyric searching for Spotify"
-    },
-    {
-        "name":"AudioBlaster",
-        "url":"https://github.com/aekala/AudioBlaster",
-        "desc":"Unity arcade game that syncs projectiles to music"
-    }
+	{
+		"name": "InlineGPT",
+		"url": "https://github.com/aekala/InlineGPT",
+		"desc": "Google Chrome extension to query ChatGPT's text completion API"
+	},
+	{
+		"name": "PostureCheck",
+		"url": "https://github.com/aekala/",
+		"desc": "Google Chrome extension to save my back"
+	},
+	{
+		"name": "Terminal Website",
+		"url": "https://www.leokodish.com",
+		"desc": "terminal emulator inspired personal website"
+	},
+	{
+		"name": "Mikashi",
+		"url": "https://github.com/aekala/mikashi",
+		"desc": "Automated lyric searching for Spotify"
+	},
+	{
+		"name": "AudioBlaster",
+		"url": "https://github.com/aekala/AudioBlaster",
+		"desc": "Unity arcade game that syncs projectiles to music"
+	}
 ]
