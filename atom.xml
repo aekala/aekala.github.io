@@ -6,7 +6,7 @@
   <link href="http://averagecase.com/atom.xml" rel="self"/>
   
   <link href="http://averagecase.com/"/>
-  <updated>2023-04-16T18:56:57.403Z</updated>
+  <updated>2023-04-16T20:18:57.170Z</updated>
   <id>http://averagecase.com/</id>
   
   <author>
@@ -17,18 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://averagecase.com/2023/04/16/hello-world/"/>
-    <id>http://averagecase.com/2023/04/16/hello-world/</id>
-    <published>2023-04-16T18:56:57.403Z</published>
-    <updated>2023-04-16T18:56:57.403Z</updated>
+    <title>Why Make a Blog in 2023</title>
+    <link href="http://averagecase.com/2023/04/16/Why-Make-a-Blog-in-2023/"/>
+    <id>http://averagecase.com/2023/04/16/Why-Make-a-Blog-in-2023/</id>
+    <published>2023-04-16T13:17:38.000Z</published>
+    <updated>2023-04-16T20:18:57.170Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/../images/neon-fading-mountain.jpg&quot; alt=&quot;fading mountain&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Modern social media (Facebook, Instagram, TikTok, etc.) has</summary>
         
       
     
@@ -38,18 +39,18 @@
   </entry>
   
   <entry>
-    <title>start</title>
-    <link href="http://averagecase.com/2023/04/07/start/"/>
-    <id>http://averagecase.com/2023/04/07/start/</id>
-    <published>2023-04-07T13:49:40.000Z</published>
-    <updated>2023-04-16T18:56:57.403Z</updated>
+    <title>Hello World</title>
+    <link href="http://averagecase.com/2023/04/09/hello-world/"/>
+    <id>http://averagecase.com/2023/04/09/hello-world/</id>
+    <published>2023-04-09T13:49:40.000Z</published>
+    <updated>2023-04-16T20:18:57.170Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Start of a new</summary>
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
         
       
     
