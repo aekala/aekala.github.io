@@ -478,7 +478,7 @@ html {
 body {
   margin: 0;
   height: 100%;
-  background-color: #ebe3d5;
+  background-color: #faf3e3;
   color: #22272a;
   font-display: swap;
   font-weight: 400;
@@ -920,7 +920,7 @@ body {
   z-index: 5000000;
   width: 100%;
   border-top: 1px solid #666;
-  background: #e8dfcf;
+  background: #f9f0db;
   transition: opacity 0.2s;
 }
 #footer-post a {
@@ -937,7 +937,7 @@ body {
 #footer-post #nav-footer {
   padding-right: 1rem;
   padding-left: 1rem;
-  background: #ddcfb7;
+  background: #f3e2bb;
   text-align: center;
 }
 #footer-post #nav-footer a {
@@ -981,7 +981,7 @@ body {
 #footer-post #share-footer {
   padding-right: 1rem;
   padding-left: 1rem;
-  background: #ddcfb7;
+  background: #f3e2bb;
   text-align: center;
 }
 #footer-post #share-footer ul {
@@ -1001,7 +1001,7 @@ body {
   clear: both;
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background: #ddcfb7;
+  background: #f3e2bb;
   text-align: left;
 }
 #footer-post #toc-footer ol {
@@ -1350,7 +1350,7 @@ article .content .caption {
   outline: none;
   border: solid 1px #666;
   border-radius: 5px;
-  background-color: #ebe3d5;
+  background-color: #faf3e3;
   color: #22272a;
   font-size: 1.2rem;
   -webkit-border-radius: 5px;
@@ -1410,7 +1410,7 @@ article .content .caption {
   display: none;
   padding: 0.2em 0.5em;
   -webkit-font-smoothing: subpixel-antialiased;
-  color: #ebe3d5;
+  color: #faf3e3;
   font-display: swap;
   font-weight: 400;
   font-size: 11.200000000000001px;
@@ -1615,7 +1615,7 @@ code {
   margin: 1rem 0;
   padding: 10px 15px;
   border-radius: 4px;
-  background: #e8dfcf;
+  background: #f9f0db;
   font-family: "Menlo", "Meslo LG", monospace;
   -webkit-border-radius: 4px;
 }
