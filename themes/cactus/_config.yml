@@ -19,7 +19,6 @@ nav:
   articles: /archives/
   projects: http://github.com/aekala
 
-
 # Links to your social media accounts.
 # The keys should correspond to Fontawesome icon names
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
@@ -68,8 +67,8 @@ post:
 # Customize the copyright years
 # Note: if start_year/end_year not provided, will use current year.
 copyright:
-  start_year: 
-  end_year: 
+  start_year:
+  end_year:
 
 # Customize the 404 page
 # Options:
@@ -78,7 +77,6 @@ error_404:
   enabled: true
   title: "404 Page Not Found"
   description: "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."
-
 
 ##############################################################################
 # Look and Feel
@@ -104,7 +102,7 @@ art:
   enabled: true
   width: 650
   height: 400
-  url: /images/denji_space.png
+  url: /images/denji_space.webp
 
 # Customize the favicons.
 # Cactus supports a limited set of the three most important icons:
@@ -138,7 +136,6 @@ colorscheme: leo
 # Maximal width of the page in rem units.
 page_width: 48
 
-
 ##############################################################################
 # Miscellaneous
 ##############################################################################
@@ -153,7 +150,6 @@ open_graph:
   twitter_id:
   google_plus:
 
-
 ##############################################################################
 # Plugins
 ##############################################################################
@@ -161,7 +157,7 @@ open_graph:
 # Enable MathJax support for Latex
 mathjax:
   enabled: false
-  
+
 # Fill in your Disqus Comments Shortname to enable Disqus comments.
 disqus:
   enabled: false
