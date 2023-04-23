@@ -94,7 +94,7 @@ logo:
   enabled: true
   width: 50
   height: 50
-  url: /images/spinda.png
+  url: /images/spinda.webp
   gravatar: false
   grayout: false
 
