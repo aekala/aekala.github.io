@@ -6,7 +6,7 @@
   <link href="http://averagecase.com/atom.xml" rel="self"/>
   
   <link href="http://averagecase.com/"/>
-  <updated>2023-04-22T19:27:45.828Z</updated>
+  <updated>2023-04-23T01:54:05.616Z</updated>
   <id>http://averagecase.com/</id>
   
   <author>
@@ -17,19 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Why Make a Blog in 2023</title>
-    <link href="http://averagecase.com/2023/04/16/Why-Make-a-Blog-in-2023/"/>
-    <id>http://averagecase.com/2023/04/16/Why-Make-a-Blog-in-2023/</id>
-    <published>2023-04-16T13:17:38.000Z</published>
-    <updated>2023-04-22T19:27:45.828Z</updated>
+    <title>How To Make a Blog in 2023</title>
+    <link href="http://averagecase.com/2023/04/22/How-To-Make-a-Blog-in-2023/"/>
+    <id>http://averagecase.com/2023/04/22/How-To-Make-a-Blog-in-2023/</id>
+    <published>2023-04-22T12:31:21.000Z</published>
+    <updated>2023-04-23T01:54:05.616Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/../images/neon-fading-mountain.jpg&quot; alt=&quot;fading mountain&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Modern social media (Facebook, Instagram, TikTok, etc.) has</summary>
+    <summary type="html">  &lt;link rel=&quot;stylesheet&quot; href=&quot;/../css/post.css&quot;&gt;
+
+&lt;img src=&quot;/../images/pyramid.webp&quot; alt=&quot;pyramids&quot; style=&quot;margin: 0; padding: 1rem 0 1rem</summary>
         
       
     
@@ -39,18 +40,19 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://averagecase.com/2023/04/09/hello-world/"/>
-    <id>http://averagecase.com/2023/04/09/hello-world/</id>
-    <published>2023-04-09T13:49:40.000Z</published>
-    <updated>2023-04-22T19:27:45.828Z</updated>
+    <title>Why Make a Blog in 2023</title>
+    <link href="http://averagecase.com/2023/04/16/Why-Make-a-Blog-in-2023/"/>
+    <id>http://averagecase.com/2023/04/16/Why-Make-a-Blog-in-2023/</id>
+    <published>2023-04-16T13:17:38.000Z</published>
+    <updated>2023-04-23T01:54:05.616Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/../images/neon-fading-mountain.jpg&quot; alt=&quot;fading mountain&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Modern social media (Facebook, Instagram, TikTok, etc.) has</summary>
         
       
     
