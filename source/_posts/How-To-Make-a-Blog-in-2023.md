@@ -4,7 +4,7 @@ date: 2023-04-22 12:31:21
 tags:
 ---
 
-  <link rel="stylesheet" href="/../css/post.css">
+<link rel="stylesheet" href="/../css/post.css">
 
 <img src="/../images/pyramid.webp" alt="pyramids" style="margin: 0; padding: 1rem 0 1rem 0;">
 

@@ -1,3 +1,10 @@
 ul {
 	list-style: square;
 }
+
+.img-side-by-side {
+	width: 50%;
+	height: 50%;
+	margin: 0;
+	padding: 1rem 0 1rem 5px;
+}
