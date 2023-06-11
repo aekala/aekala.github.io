@@ -23,7 +23,7 @@ Many (myself included) use window managers for the productivity benefits of usin
   Your browser does not support the video tag.
 </video><p class="img-caption">example of a tiling window manager</p>
 
-The term “ricing” comes from street racing. Asian drivers would customize their (typically Japanese-built) cars with paints, rims, spoilers, stickers, and other accessories. Originally it was an insulting term with racial overtones, but over time it was adopted by the online programming community and now refers to customizing your operating system to make it look cooler or work better for you.
+The term “ricing” comes from street racing. Asian drivers would customize their (typically Japanese-built) cars with paints, rims, spoilers, stickers, and other accessories. Similar to something you might see on the MTV show Pimp My Ride. Originally it was an insulting term with racial overtones, but over time it was adopted by the online programming community and now refers to customizing your operating system to make it look cooler or work better for you.
 
 # What is Linux and why is it used for ricing?
 
@@ -59,7 +59,7 @@ There is no concrete list of components a setup needs to be considered "complete
 3. Taskbar
 
 - A taskbar is a menu that runs along the top, bottom, or side edge of the screen, just like what you would see when using Windows or macOS.
-- A popular option here is Polybar. You can easily customize it to show information such as the time, resource usage, network connection, and currently playing music.
+- A popular option here is Polybar. You can easily customize it to show information such as currently open workspaces, date/time, resource usage, network connection, and currently playing music.
 
 <img src="/../images/ricing/polybar_example.png" alt="polybar example">
 <p class="img-caption">example of polybar taskbar</p>
@@ -97,7 +97,7 @@ There is no concrete list of components a setup needs to be considered "complete
 
 - An aspect of ricing I appreciate is that there is no one right way to do it. The communities around ricing I've seen all appreciate setups that are way out there. The way we interact with operating systems like MacOS and Windows has long been that we use it as it comes out of the box, with the biggest changes we make typically being the wallpaper we set and the various applications we use on it.
 
-  At the end of the day the only one using your computer is you, so ricing ends up being a really cool way to express your personality through creating a setup that works just for you. For example, I need a setup that allows me to quickly switch between typing in English and Japanese, so I configured Japanese language support on my operating system using Ibus and added keyboard shortcuts to easily switch between the two.
+  At the end of the day the only one using your computer is you, so ricing ends up being a really cool way to express yourself through creating a setup that works the best for you. For example, I need a setup that allows me to switch between typing in English and Japanese, so I configured Japanese language support on my operating system using Ibus and added keyboard shortcuts to quickly switch between the two.
 
   It's also an iterative process. My aesthetic preferences and the functionality I need have changed greatly from the time when I created my first rice, and my current setup reflects that. I've included some resources below that are great places to get started in ricing their OS, and I encourage anyone to reach out to me if they're interested and have questions!
 
