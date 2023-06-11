@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+    <!-- so meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
+    <meta name="description" content="my current linux rice setup  What is ricing?“Ricing” is the practice of customizing one’s experience with their operating system, both functionally and aesthetically.Functional customizing involves">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Pimp My PC: An Introduction to Linux Ricing">
+<meta property="og:url" content="http://averagecase.com/2023/06/10/Pimp-My-PC-An-Introduction-to-Linux-Ricing/index.html">
+<meta property="og:site_name" content="Average Case">
+<meta property="og:description" content="my current linux rice setup  What is ricing?“Ricing” is the practice of customizing one’s experience with their operating system, both functionally and aesthetically.Functional customizing involves">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="http://averagecase.com/images/ricing/my_unix_rice.png">
+<meta property="og:image" content="http://averagecase.com/images/ricing/unix_rice_macos.jpg">
+<meta property="og:image" content="http://averagecase.com/images/ricing/polybar_example.png">
+<meta property="og:image" content="http://averagecase.com/images/ricing/unix_rice_pink.jpg">
+<meta property="og:image" content="http://averagecase.com/images/ricing/unix_rice_orange.jpg">
+<meta property="og:image" content="http://averagecase.com/images/ricing/unix_rice_windows.webp">
+<meta property="og:image" content="http://averagecase.com/images/ricing/unix_rice_thatcher.webp">
+<meta property="og:image" content="http://averagecase.com/images/ricing/chrome_start_page.png">
+<meta property="article:published_time" content="2023-06-10T15:57:04.000Z">
+<meta property="article:modified_time" content="2023-06-11T09:38:51.093Z">
+<meta property="article:author" content="Leo Kodish">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://averagecase.com/images/ricing/my_unix_rice.png">
+    
+    
+      
+        
+          <link rel="shortcut icon" href="/images/spinda.ico">
+        
+      
+      
+        
+          <link rel="icon" type="image/png" href="/images/spinda.png" sizes="192x192">
+        
+      
+      
+        
+          <link rel="apple-touch-icon" sizes="180x180" href="/images/spinda.png">
+        
+      
+    
+    <!-- title -->
+    <title>Pimp My PC: An Introduction to Linux Ricing</title>
+    <!-- styles -->
+    
+<link rel="stylesheet" href="/css/style.css">
+
+    <!-- persian styles -->
+    
+    <!-- rss -->
+    
+    
+	<!-- mathjax -->
+	
+<meta name="generator" content="Hexo 6.3.0"><link rel="alternate" href="/atom.xml" title="Average Case" type="application/atom+xml">
+</head>
+
+<body class="max-width mx-auto px3 ltr">
+    <div class="content index py2">
+         <header id="header">
+  <a href="/">
+  
+    
+      <div id="logo" style="background-image: url(/images/spinda.webp);"></div>
+    
+  
+    <div id="title">
+      <h1>Average Case</h1>
+    </div>
+  </a>
+  <div id="nav">
+    <ul>
+      <li class="icon">
+        <a href="#" aria-label="Menu"><i class="fas fa-bars fa-2x"></i></a>
+      </li>
+      <!--
+     --><li><a href="/">Home</a></li><!--
+   --><!--
+     --><li><a href="/about/">About</a></li><!--
+   --><!--
+     --><li><a href="/archives/">Writing</a></li><!--
+   --><!--
+     --><li><a target="_blank" rel="noopener" href="http://github.com/aekala">Projects</a></li><!--
+   -->
+    </ul>
+  </div>
+</header>
+
+         <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <header>
+    
+    <h1 class="posttitle" itemprop="name headline">
+        Pimp My PC: An Introduction to Linux Ricing
+    </h1>
+
+
+
+    <div class="meta">
+      <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <span itemprop="name">Leo Kodish</span>
+      </span>
+      
+    <div class="postdate">
+      
+        <time datetime="2023-06-10T15:57:04.000Z" itemprop="datePublished">2023-06-10</time>
+        
+      
+    </div>
+
+
+      
+
+      
+
+    </div>
+  </header>
+  
+
+  <div class="content" itemprop="articleBody">
+    <link rel="stylesheet" href="/../css/post.css">
+
+<img src="/../images/ricing/my_unix_rice.png" alt="linux rice" style="width: 100%; height: 100%; margin: auto; padding: 1rem 0 0 0;">
+<p class="img-caption">my current linux rice setup</p>
+
+<h1 id="What-is-ricing"><a href="#What-is-ricing" class="headerlink" title="What is ricing?"></a>What is ricing?</h1><p>“Ricing” is the practice of customizing one’s experience with their operating system, both functionally and aesthetically.<br>Functional customizing involves configuring a window manager or desktop environment program on top of their operating system. It can also often include using applications via CLI (Command Line Interface) over those with a GUI (Graphical User Interface) to create your optimal workflow.<br>Aesthetic customizing typically includes setting color themes, fonts, icons, and wallpapers.</p>
+<p>You can rice your OS to optimize its performance, but more often the focus is on aesthetics.<br>Many (myself included) use window managers for the productivity benefits of using tiling to organize open windows into non-overlapping areas and being able to utilize keyboard shortcuts to perform many actions.</p>
+<video style="padding: 0 0 0 0;" controls  alt="video example of a tiling window manager">
+  <source src="/../images/ricing/tiling_example.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video><p class="img-caption">example of a tiling window manager</p>
+
+<p>The term “ricing” comes from street racing. Asian drivers would customize their (typically Japanese-built) cars with paints, rims, spoilers, stickers, and other accessories. Originally it was an insulting term with racial overtones, but over time it was adopted by the online programming community and now refers to customizing your operating system to make it look cooler or work better for you.</p>
+<h1 id="What-is-Linux-and-why-is-it-used-for-ricing"><a href="#What-is-Linux-and-why-is-it-used-for-ricing" class="headerlink" title="What is Linux and why is it used for ricing?"></a>What is Linux and why is it used for ricing?</h1><p>Linux is a family of open-source operating systems. Just like how Windows and macOS are operating systems that manage your computer’s memory and processes and provide a user interface for you, Linux operating systems provide many of the same things. Although how many services and how user-friendly the operating system is can vary across the Linux ecosystem. For example, Ubuntu and Linux Mint are known to be beginner-friendly operating systems that work right out of the box, with a GUI and an app store for installing commonly-used software. On the other end of the spectrum exists operating systems like Arch Linux, which are purposely minimal and require the user to manually set up anything extra they want such as sound or a GUI.</p>
+<p>Linux operating systems are the ones predominantly used for ricing because of the high level of control they grant to the user and the large ecosystem of open-source software that allows for communities to form around creating software to meet their needs.</p>
+<p>You can rice operating systems like Windows and MacOS, but you will be limited in the scope of things you can do. So it would be more for aesthetics than anything else, but some workarounds exist to use features you would typically see in a Linux rice.</p>
+<img src="/../images/ricing/unix_rice_macos.jpg" alt="macOS rice example" style="margin: 0; padding: 1rem 0 1rem 0">
+<p class="img-caption">example of a rice built in macOS</p>
+
+<h1 id="Components-of-a-Setup"><a href="#Components-of-a-Setup" class="headerlink" title="Components of a Setup"></a>Components of a Setup</h1><p>There is no concrete list of components a setup needs to be considered “complete”, but the following are some software applications that you’ll find in most rices.</p>
+<ol>
+<li>Window Manager or Desktop Environment</li>
+</ol>
+<ul>
+<li><p>Window Manager (WM): a single program that handles how your operating system manages open windows of applications. It allows you to change the size and position onscreen of your windows. Many window managers use keyboard shortcuts to quickly organize your windows in however you see fit.</p>
+</li>
+<li><p>Desktop Environment (DE): a more fully-fledged suite of programs that include a GUI, and a window manager along with more pre-installed applications for use with our operating system.</p>
+</li>
+</ul>
+<ol start="2">
+<li>Application Launcher</li>
+</ol>
+<ul>
+<li>A popup window for quickly searching for and launching applications.</li>
+<li>Rofi and dmenu are the most popular options.<video style="padding: 1rem 0 0 2rem;" controls  alt="video example of rofi">
+<source src="/../images/ricing/rofi_example.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+<p class="img-caption">example video of using rofi</p></li>
+</ul>
+<ol start="3">
+<li>Taskbar</li>
+</ol>
+<ul>
+<li>A taskbar is a menu that runs along the top, bottom, or side edge of the screen, just like what you would see when using Windows or macOS.</li>
+<li>A popular option here is Polybar. You can easily customize it to show information such as the time, resource usage, network connection, and currently playing music.</li>
+</ul>
+<img src="/../images/ricing/polybar_example.png" alt="polybar example">
+<p class="img-caption">example of polybar taskbar</p>
+
+<ol start="4">
+<li>Color Theme</li>
+</ol>
+<ul>
+<li>Many people design their rice with a color theme in mind and coordinate the color of their applications and wallpaper to match their theme.</li>
+</ul>
+<img src="/../images/ricing/unix_rice_pink.jpg" alt="unix rice pink example">
+<p class="img-caption">pink color theme</p>
+
+<img src="/../images/ricing/unix_rice_orange.jpg" alt="unix rice orange example" style="padding-top:1rem;">
+<p class="img-caption">orange color theme</p>
+
+<img src="/../images/ricing/unix_rice_windows.webp" alt="unix rice orange example" style="padding-top:1rem;">
+<p class="img-caption">Linux OS themed to look like a Windows operating system from the 90's</p>
+
+<img src="/../images/ricing/unix_rice_thatcher.webp" alt="unix rice margaret thatcher example" style="padding-top:1rem;">
+<p class="img-caption">rice themed after former British PM Margaret Thatcher</p>
+
+<video style="margin: 1rem 0 0 2rem;" controls  alt="ricky bobby meme video">
+  <source src="/../images/ricing/ricky_bobby.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video><p class="img-caption">how i feel about that last one</p>
+
+<ol start="5">
+<li>Browser Launch Page (optional)</li>
+</ol>
+<ul>
+<li><p>One neat thing I’ve seen a lot of people do is design their own web pages to open when they launch their web browsers. It’s a way to customize your experience with the application we probably use the most on our computers.</p>
+</li>
+<li><p>I created my own by writing a simple web page in HTML and CSS and added some JavaScript to write a message that changes depending on the time and day of the week.</p>
+<p>Afterwards, I installed the <a target="_blank" rel="noopener" href="https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna">New Tab Redirect</a> extension for Google Chrome.<br>You can simply set the extension to use the HTML file on your computer. Or if you want to use the launch page across multiple computers you can do what I did which was host my files in an AWS S3 bucket and set the redirect URL in the New Tab Redirect settings to the URL of the HTML file hosted in S3. This way if I want to make any changes to the launch page I only need to update the files in my S3 bucket instead of having to manually download the new files across all my computers.</p>
+</li>
+</ul>
+<img src="/../images/ricing/chrome_start_page.png" alt="my chrome launch page example" style="width: 100%; height: 100%; margin: auto; padding: 1rem 0 0 2rem;">
+<p class="img-caption">my browser launch page</p>
+
+<ol start="6">
+<li>Whatever You Like</li>
+</ol>
+<ul>
+<li><p>An aspect of ricing I appreciate is that there is no one right way to do it. The communities around ricing I’ve seen all appreciate setups that are way out there. The way we interact with operating systems like MacOS and Windows has long been that we use it as it comes out of the box, with the biggest changes we make typically being the wallpaper we set and the various applications we use on it.</p>
+<p>At the end of the day the only one using your computer is you, so ricing ends up being a really cool way to express your personality through creating a setup that works just for you. For example, I need a setup that allows me to quickly switch between typing in English and Japanese, so I configured Japanese language support on my operating system using Ibus and added keyboard shortcuts to easily switch between the two.</p>
+<p>It’s also an iterative process. My aesthetic preferences and the functionality I need have changed greatly from the time when I created my first rice, and my current setup reflects that. I’ve included some resources below that are great places to get started in ricing their OS, and I encourage anyone to reach out to me if they’re interested and have questions!</p>
+</li>
+</ul>
+<h1 id="Resources-to-Learn-More"><a href="#Resources-to-Learn-More" class="headerlink" title="Resources to Learn More"></a>Resources to Learn More</h1><ul>
+<li><a target="_blank" rel="noopener" href="https://www.reddit.com/r/unixporn/">https://www.reddit.com/r/unixporn/</a></li>
+<li><a target="_blank" rel="noopener" href="https://github.com/polybar/polybar">https://github.com/polybar/polybar</a></li>
+<li><a target="_blank" rel="noopener" href="https://github.com/davatorium/rofi">https://github.com/davatorium/rofi</a></li>
+<li><a target="_blank" rel="noopener" href="https://wiki.archlinux.org/">https://wiki.archlinux.org/</a></li>
+</ul>
+
+  </div>
+</article>
+
+
+
+        
+          <div id="footer-post-container">
+  <div id="footer-post">
+
+    <div id="nav-footer" style="display: none">
+      <ul>
+         
+          <li><a href="/">Home</a></li>
+         
+          <li><a href="/about/">About</a></li>
+         
+          <li><a href="/archives/">Writing</a></li>
+         
+          <li><a target="_blank" rel="noopener" href="http://github.com/aekala">Projects</a></li>
+        
+      </ul>
+    </div>
+
+    <div id="toc-footer" style="display: none">
+      <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#What-is-ricing"><span class="toc-number">1.</span> <span class="toc-text">What is ricing?</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#What-is-Linux-and-why-is-it-used-for-ricing"><span class="toc-number">2.</span> <span class="toc-text">What is Linux and why is it used for ricing?</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Components-of-a-Setup"><span class="toc-number">3.</span> <span class="toc-text">Components of a Setup</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Resources-to-Learn-More"><span class="toc-number">4.</span> <span class="toc-text">Resources to Learn More</span></a></li></ol>
+    </div>
+
+    <div id="share-footer" style="display: none">
+      <ul>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.facebook.com/sharer.php?u=http://averagecase.com/2023/06/10/Pimp-My-PC-An-Introduction-to-Linux-Ricing/"><i class="fab fa-facebook fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://twitter.com/share?url=http://averagecase.com/2023/06/10/Pimp-My-PC-An-Introduction-to-Linux-Ricing/&text=Pimp My PC: An Introduction to Linux Ricing"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.linkedin.com/shareArticle?url=http://averagecase.com/2023/06/10/Pimp-My-PC-An-Introduction-to-Linux-Ricing/&title=Pimp My PC: An Introduction to Linux Ricing"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://pinterest.com/pin/create/bookmarklet/?url=http://averagecase.com/2023/06/10/Pimp-My-PC-An-Introduction-to-Linux-Ricing/&is_video=false&description=Pimp My PC: An Introduction to Linux Ricing"><i class="fab fa-pinterest fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" href="mailto:?subject=Pimp My PC: An Introduction to Linux Ricing&body=Check out this article: http://averagecase.com/2023/06/10/Pimp-My-PC-An-Introduction-to-Linux-Ricing/"><i class="fas fa-envelope fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://getpocket.com/save?url=http://averagecase.com/2023/06/10/Pimp-My-PC-An-Introduction-to-Linux-Ricing/&title=Pimp My PC: An Introduction to Linux Ricing"><i class="fab fa-get-pocket fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://reddit.com/submit?url=http://averagecase.com/2023/06/10/Pimp-My-PC-An-Introduction-to-Linux-Ricing/&title=Pimp My PC: An Introduction to Linux Ricing"><i class="fab fa-reddit fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.stumbleupon.com/submit?url=http://averagecase.com/2023/06/10/Pimp-My-PC-An-Introduction-to-Linux-Ricing/&title=Pimp My PC: An Introduction to Linux Ricing"><i class="fab fa-stumbleupon fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://digg.com/submit?url=http://averagecase.com/2023/06/10/Pimp-My-PC-An-Introduction-to-Linux-Ricing/&title=Pimp My PC: An Introduction to Linux Ricing"><i class="fab fa-digg fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.tumblr.com/share/link?url=http://averagecase.com/2023/06/10/Pimp-My-PC-An-Introduction-to-Linux-Ricing/&name=Pimp My PC: An Introduction to Linux Ricing&description="><i class="fab fa-tumblr fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://news.ycombinator.com/submitlink?u=http://averagecase.com/2023/06/10/Pimp-My-PC-An-Introduction-to-Linux-Ricing/&t=Pimp My PC: An Introduction to Linux Ricing"><i class="fab fa-hacker-news fa-lg" aria-hidden="true"></i></a></li>
+</ul>
+
+    </div>
+
+    <div id="actions-footer">
+        <a id="menu" class="icon" href="#" onclick="$('#nav-footer').toggle();return false;"><i class="fas fa-bars fa-lg" aria-hidden="true"></i> Menu</a>
+        <a id="toc" class="icon" href="#" onclick="$('#toc-footer').toggle();return false;"><i class="fas fa-list fa-lg" aria-hidden="true"></i> TOC</a>
+        <a id="share" class="icon" href="#" onclick="$('#share-footer').toggle();return false;"><i class="fas fa-share-alt fa-lg" aria-hidden="true"></i> Share</a>
+        <a id="top" style="display:none" class="icon" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');"><i class="fas fa-chevron-up fa-lg" aria-hidden="true"></i> Top</a>
+    </div>
+
+  </div>
+</div>
+
+        
+        <footer id="footer">
+  <div class="footer-left">
+    &copy;
+    
+    
+    2023
+    Leo Kodish
+  </div>
+  <div class="footer-right">
+    <nav>
+      <ul>
+        
+          <li>
+            <a class="footer-icon" target="_blank" rel="noopener me" href="http://github.com/aekala" aria-label="github">
+              
+                  <i class="fab fa-github"></i>
+              
+          </a>
+          </li>
+        
+          <li>
+            <a class="footer-icon" target="_blank" rel="noopener me" href="https://twitter.com/aekala_" aria-label="twitter">
+              
+                  <i class="fab fa-twitter"></i>
+              
+          </a>
+          </li>
+        
+          <li>
+            <a class="footer-icon" target="_blank" rel="noopener me" href="https://www.linkedin.com/in/leo-kodish-b83aa712b" aria-label="linkedin">
+              
+                  <i class="fab fa-linkedin"></i>
+              
+          </a>
+          </li>
+        
+          <li>
+            <a class="footer-icon" target="_blank" rel="noopener me" href="https://www.instagram.com/tofu.mane/" aria-label="instagram">
+              
+                  <i class="fab fa-instagram"></i>
+              
+          </a>
+          </li>
+        
+          <li>
+            <a class="footer-icon" target="_blank" rel="noopener me" href="/atom.xml" aria-label="rss">
+              
+                  <i class="fas fa-rss"></i>
+              
+          </a>
+          </li>
+        
+      </ul>
+    </nav>
+  </div>
+</footer>
+    </div>
+    <!-- styles -->
+
+
+
+  <link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" crossorigin="anonymous" onload="this.onload=null;this.rel='stylesheet'"/>
+
+
+    <!-- jquery -->
+ 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" crossorigin="anonymous"></script> 
+
+
+
+
+<!-- clipboard -->
+
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.7/clipboard.min.js" crossorigin="anonymous"></script> 
+  
+  <script type="text/javascript">
+  $(function() {
+    // copy-btn HTML
+    var btn = "<span class=\"btn-copy tooltipped tooltipped-sw\" aria-label=\"Copy to clipboard!\">";
+    btn += '<i class="far fa-clone"></i>';
+    btn += '</span>'; 
+    // mount it!
+    $(".highlight table").before(btn);
+    var clip = new ClipboardJS('.btn-copy', {
+      text: function(trigger) {
+        return Array.from(trigger.nextElementSibling.querySelectorAll('.code')).reduce((str,it)=>str+it.innerText+'\n','')
+      }
+    });
+    clip.on('success', function(e) {
+      e.trigger.setAttribute('aria-label', "Copied!");
+      e.clearSelection();
+    })
+  })
+  </script>
+
+
+<script src="/js/main.js"></script>
+
+<!-- search -->
+
+<!-- Google Analytics -->
+
+<!-- Baidu Analytics -->
+
+<!-- Cloudflare Analytics -->
+
+<!-- Umami Analytics -->
+
+<!-- Disqus Comments -->
+
+<!-- utterances Comments -->
+
+</body>
+</html>
