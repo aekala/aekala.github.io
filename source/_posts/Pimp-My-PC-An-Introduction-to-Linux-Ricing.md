@@ -74,9 +74,6 @@ There is no concrete list of components a setup needs to be considered "complete
 <img src="/../images/ricing/unix_rice_orange.jpg" alt="unix rice orange example" style="padding-top:1rem;">
 <p class="img-caption">orange color theme</p>
 
-<img src="/../images/ricing/unix_rice_windows.webp" alt="unix rice orange example" style="padding-top:1rem;">
-<p class="img-caption">Linux OS themed to look like a Windows operating system from the 90's</p>
-
 <img src="/../images/ricing/unix_rice_thatcher.webp" alt="unix rice margaret thatcher example" style="padding-top:1rem;">
 <p class="img-caption">rice themed after former British PM Margaret Thatcher</p>
 
